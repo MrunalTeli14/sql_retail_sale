@@ -68,4 +68,5 @@ Create views and stored procedures
 
 Integrate with visualization tools (Power BI / Tableau)
 
+
 Automate data loading process
